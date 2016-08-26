@@ -7,3 +7,5 @@
 3. Why do we write tests for our code?
 
 4. What does it mean to clone a repo?
+
+5. What is a higher order function? What is a callback?

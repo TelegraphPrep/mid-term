@@ -12,6 +12,12 @@
 
 
 Objects:
+
+Functions:
+
+Higher Order Functions:
+
+Concepts:
  
 
 
