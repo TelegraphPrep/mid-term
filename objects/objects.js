@@ -1,10 +1,4 @@
-// dot notation
-
-// bracket notation
-
-// for loop
-
-// do not change this line:
+// do not change lines 2 - 6:
 var twitter = {
   countCharacters: function(string) {
     return string.length;
@@ -20,6 +14,8 @@ var twittersAddress = "1355 Market St #900, San Francisco, CA 94103";
 
 // 4. Array:
 
+// 5. Loop through array:
+
 // 5. Invoke countCharacters:
 
-// 6. Loop:
+// 6. Loop through twitter object:

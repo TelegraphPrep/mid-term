@@ -1,4 +1,4 @@
-Create the following functions, and invoke them in a console.log statement with whatever sample data you like.
+Create the following functions, and **invoke them in a console.log statement with whatever sample data you like**.
 
 ## multiply
 
@@ -42,4 +42,4 @@ Takes in an array of numbers and for each number prints to the console:
 -'FizzBuzz' if it can be divided evenly by 5 and 3
 -Just the number itself if it can't be divided by either 3 or 5 evenly
 
-**You must use your isDivisibleBy function to help you write your fizzBuzz function**
+**If got it working, use your isDivisibleBy function to help you write your fizzBuzz function.**
