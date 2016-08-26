@@ -11,7 +11,8 @@
 ## Grading Outline
 
 
-1st: 
+Objects:
+ 
 
 
 ## Self-Grading Process
@@ -48,5 +49,5 @@ Solutions are submitted via pushing your code to your OWN FORKED repository. We 
 
 ## Problems
 
-Each assessment contains folders that correspond to the prompts listed below. Complete the instructions in the file, `README.md` within each folder (reproduced below).
+Each assessment contains folders that correspond to the prompts listed below. Complete the instructions in the file `README.md` within each folder.
 
